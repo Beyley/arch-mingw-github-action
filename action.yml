@@ -1,4 +1,4 @@
-name: Arch Linux MinGW Builder
+name: Arch Linux MinGW Builder (with glfw)
 description: Build setup for MinGW-based projects on Arch Linux
 
 branding:
